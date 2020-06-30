@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Recipe Korea";
+  src: url(./fonts/Recipekorea.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "JS Dongkang";
+  src: url(./fonts/JSDonkang.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gmarket";
+  src: url(./fonts/GmarketSans.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gukdae";
+  src: url(./fonts/Gukdae.otf) format("truetype");
+}
