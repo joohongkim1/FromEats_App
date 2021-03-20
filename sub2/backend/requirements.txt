@@ -16,7 +16,7 @@ django-pandas==0.6.1
 django-rest-auth==0.9.5
 django-rest-knox==4.1.0
 django-webpack-loader==0.2.4
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docutils==0.14
 drf-yasg==1.17.1
