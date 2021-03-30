@@ -57,7 +57,7 @@ pathlib2==2.3.3
 patsy==0.5.1
 pep8==1.7.1
 pickleshare==0.7.5
-Pygments==2.3.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.4.4
 PyMySQL==0.9.3
