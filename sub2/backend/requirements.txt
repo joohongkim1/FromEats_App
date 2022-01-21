@@ -24,7 +24,7 @@ google-auth==1.13.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 ipykernel==5.1.0
-ipython==7.3.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jsonpointer==2.0
