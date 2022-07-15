@@ -8,7 +8,7 @@ beautifulsoup4==4.6.0
 decorator==4.4.1
 defusedxml==0.6.0
 distlib==0.3.0
-distributed==1.26.0
+distributed==2021.10.0
 Django==2.1
 django-allauth==0.41.0
 django-cors-headers==3.2.1
